@@ -6,5 +6,8 @@ public class Main {
 
         Saludo saludo = new Saludo();
         saludo.saludar("Sandra");
+
+        OtroSaludo otroSaludo = new OtroSaludo();
+        otroSaludo.saludar("Pacho");
     }
 }
